@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Furniture Place</string>
+    <string name="empty_furniture_list">Please, select items</string>
+</resources>
